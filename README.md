@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergey</h1>
-<h3 align="center">I am currently trying to explore different areas of the IT industry</h3>
+<h3 align="center">I am trying to explore different areas of the IT industry</h3>
 
-- 🔭 I’m currently working on **study different aspects of the IT industry**
+- 🔭 I’m working on **study different aspects of the IT industry**
 
 - 🌱 I’m currently learning **Python(async),C(language)**
 

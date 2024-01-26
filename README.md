@@ -5,7 +5,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="100" height="100"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="100" height="100"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg" alt="Confluence" width="100" height="100"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="Slack" width="100" height="100"/>
 </p>
 
 <h1 align="center">Привет, друзья! 👋</h1>

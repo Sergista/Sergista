@@ -25,4 +25,4 @@
 
 <p align="center">Спасибо за посещение моего профиля! Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной.</p>
 
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/{{your_username}}/{{Sergista}}/blob/output/github-contribution-grid-snake.svg)

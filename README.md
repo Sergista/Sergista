@@ -25,4 +25,4 @@
 
   ![Codewars](https://github.r2v.ch/codewars?user=Sergista&stroke=%23BB432C)
   
- [![LeetCode](https://leetcode-badge.com/?username=Sergista&style=plastic)](https://leetcode.com/Sergista/)
+  ![Leetcode Stats](https://leetcard.Sergista/Sergista?ext=activity)

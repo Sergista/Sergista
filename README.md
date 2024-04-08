@@ -22,4 +22,5 @@
 <p align="center">Спасибо за посещение моего профиля! Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной.</p>
 
 
-![Codewars](https://github.r2v.ch/codewars?user=Sergista&stroke=%23BB432C)
+
+  ![Codewars](https://github.r2v.ch/codewars?user=Sergista&stroke=%23BB432C)
